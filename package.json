@@ -1,11 +1,11 @@
 {
-  "name": "test-portfolio",
+  "name": "shami-portfolio",
   "version": "0.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
     "build": "ng build",
-    "build:prod": "ng build --configuration=production --base-href=/test-portfolio/",
+    "build:prod": "ng build --configuration=production --base-href=/shami-portfolio/",
     "watch": "ng build --watch --configuration development",
     "test": "ng test"
   },
@@ -23,6 +23,7 @@
     "@fortawesome/free-brands-svg-icons": "^6.6.0",
     "@fortawesome/free-solid-svg-icons": "^6.6.0",
     "rxjs": "~7.8.0",
+    "shami-portfolio": "file:",
     "tslib": "^2.3.0",
     "zone.js": "~0.14.2"
   },
