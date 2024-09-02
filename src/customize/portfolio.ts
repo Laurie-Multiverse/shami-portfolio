@@ -13,7 +13,7 @@ export const intro = {
 export const socialMediaLinks: Link[] = [
   {
     name: 'github',
-    url: 'https://github.com',
+    url: 'https://github.com/Laurie-Multiverse',
   },
   {
     name: 'linkedIn',
