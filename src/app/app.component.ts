@@ -13,5 +13,5 @@ import { FooterComponent } from './footer/footer.component';
 })
 
 export class AppComponent {
-  title = 'personal-portfolio';
+  title = 'shami-portfolio';
 }

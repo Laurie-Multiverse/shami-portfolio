@@ -62,10 +62,10 @@
           "builder": "@angular-devkit/build-angular:dev-server",
           "configurations": {
             "production": {
-              "buildTarget": "personal-portfolio:build:production"
+              "buildTarget": "shami-portfolio:build:production"
             },
             "development": {
-              "buildTarget": "personal-portfolio:build:development"
+              "buildTarget": "shami-portfolio:build:development"
             }
           },
           "defaultConfiguration": "development"
@@ -73,7 +73,7 @@
         "extract-i18n": {
           "builder": "@angular-devkit/build-angular:extract-i18n",
           "options": {
-            "buildTarget": "personal-portfolio:build"
+            "buildTarget": "shami-portfolio:build"
           }
         },
         "test": {
