@@ -1,4 +1,4 @@
-# PersonalPortfolio
+# Test Portfolio
 
 ## Project Overview: 
 This is a very lightweight version of my 2nd Language Learning project. Instead of focusing on live edits with authentication, I took inspiration from this other existing customizable portfolio template, https://github.com/saadpasta/developerFolio, which only requires a user to input their information via a JSON file. Therefore, this project will primarily be a frontend endeavor and focus on aesthetics, accessibility, and user-friendliness.
